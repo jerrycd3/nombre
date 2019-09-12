@@ -1,0 +1,15 @@
+package preguntas;
+import java.util.Scanner;
+
+public class caracteres {
+
+   
+    public static void main(String[] args) {
+        String Nombre;
+        Scanner N=new Scanner (System.in);
+        System.out.println("INTRODUCIR NOMBRE");
+      Nombre=N.nextLine();
+      System.out.println("Hola"+Nombre+"!!!");
+    }
+    
+}
