@@ -1,3 +1,6 @@
+//programa que pide que se introduzca el nombre de la persona y lo muestra en la pantalla
+
+
 package preguntas;
 import java.util.Scanner;
 
